@@ -8,7 +8,7 @@ gem 'inch', ">= 0.4.6"
 gem 'inch-badge', ">= 0.2.1"
 
 gem 'jekyll'
-gem 'jekyll-haml'
+gem 'jekyll-haml', '>= 1.0.0'
 gem 'jekyll-markdown-block'
 
 gem 'pry'
