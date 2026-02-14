@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-gem 'octokit'
+gem 'octokit', '>= 4.23.0'
 gem 'gems'
 
 gem 'repomen', ">= 0.1.4"
